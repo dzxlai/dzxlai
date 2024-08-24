@@ -14,6 +14,9 @@ Thank you for your time and consideration, please feel free to get in touch with
 
 <h2>👨‍💻📊 Data Analytics Projects:</h2>
 
+- <b>Excel Projects</b>
+  - [EDA on Bike Buyers](https://github.com/dzxlai/bike_buyers_project)
+
 <!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> -->
 <!--  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
 
