@@ -18,7 +18,7 @@ Thank you for your time and consideration, please feel free to get in touch with
   - [EDA on Bike_Buyers](https://github.com/dzxlai/bike_buyers_project)
  
 - <b>Excel_SQL_PowerBI Project</b>
-  - [EDA - Badminton]
+  - [ ]
 
 <!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> -->
 <!--  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
