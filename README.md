@@ -15,7 +15,7 @@ Thank you for your time and consideration, please feel free to get in touch with
 <h2>👨‍💻📊 Data Analytics Projects:</h2>
 
 - <b>Excel Project</b>
-  - [EDA on Bike Buyers](https://github.com/dzxlai/bike_buyers_project)
+  - [EDA on Bike_Buyers](https://github.com/dzxlai/bike_buyers_project)
  
 - <b>Excel_SQL_PowerBI Project</b>
   - [EDA on Top_100_Badminton_Players]
