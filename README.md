@@ -21,7 +21,7 @@ Thank you for your time and consideration, please feel free to get in touch with
   - [ ]
 
 - <b> MSc Disseration Project </b>
-  - [Delving into the Key characteristcs of Procrastination: Using EDA & ML](https://github.com/dzxlai/MSc_Project/)
+  - [Delving into the Key Characteristcs of Procrastination: Using EDA & ML](https://github.com/dzxlai/MSc_Project/)
 
 
 <!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> -->
