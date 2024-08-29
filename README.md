@@ -17,7 +17,7 @@ Thank you for your time and consideration, please feel free to get in touch with
 - <b>Excel Project</b>
   - [EDA on Bike_Buyers](https://github.com/dzxlai/bike_buyers_project)
  
-- <b>Excel_SQL_PowerBI Project</b>
+- <b>Excel -> SQL -> PowerBI Project</b>
   - [ ]
 
 - <b> MSc Disseration Project </b>
