@@ -18,7 +18,7 @@ Thank you for your time and consideration, please feel free to get in touch with
   - [EDA on Bike_Buyers](https://github.com/dzxlai/bike_buyers_project)
  
 - <b>Excel -> SQL -> PowerBI Project</b>
-  - [ ]
+  - [Top Performing UK Instagram Accounts 2024](https://github.com/dzxlai/top_uk_instagrammers_2024)
 
 - <b> MSc Disseration Project </b>
   - [Delving into the Key Characteristcs of Procrastination: Using EDA & ML](https://github.com/dzxlai/MSc_Project/)
