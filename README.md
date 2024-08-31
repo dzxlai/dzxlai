@@ -16,13 +16,12 @@ Thank you for your time and consideration, please feel free to get in touch with
 
 - <b>Excel -> SQL -> PowerBI Project</b>
   - [Top Performing UK Instagram Accounts 2024](https://github.com/dzxlai/top_uk_instagrammers_2024)
- 
+
 - <b>Excel Project</b>
   - [EDA on Bike_Buyers](https://github.com/dzxlai/bike_buyers_project)
 
 - <b> MSc Disseration Project </b>
   - [Delving into the Key Characteristcs of Procrastination: Using EDA & ML](https://github.com/dzxlai/MSc_Project/)
-
 
 <!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> -->
 <!--  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
