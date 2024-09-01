@@ -14,7 +14,7 @@ Thank you for your time and consideration, please feel free to get in touch with
 
 <h2>👨‍💻📊 Data Analytics Projects:</h2>
 
-- <b>Excel -> SQL -> PowerBI Project</b>
+- <b>Excel -> SQL -> Python Project</b>
   - [Top Performing UK Instagram Accounts 2024](https://github.com/dzxlai/top_uk_instagrammers_2024)
 
 - <b>Excel Project</b>
