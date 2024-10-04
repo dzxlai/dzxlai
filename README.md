@@ -34,6 +34,8 @@ Thank you for your time and consideration, please feel free to get in touch with
 <br/>
 📧<a href="dominiczxlai@gmail.com">Email</a>
 
+<h2> 📜🏅 Certificates:</h2>
+- [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/f8e390c3f8a00049a4e75879ba98a8a8f9ea384f23956909d94d36181d85dac8)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
