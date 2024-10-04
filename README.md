@@ -35,6 +35,7 @@ Thank you for your time and consideration, please feel free to get in touch with
 📧<a href="dominiczxlai@gmail.com">Email</a>
 
 <h2> 📜🏅 Certificates:</h2>
+
 - [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/f8e390c3f8a00049a4e75879ba98a8a8f9ea384f23956909d94d36181d85dac8)
 
 <!--
