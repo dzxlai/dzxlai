@@ -23,8 +23,11 @@ Thank you for your time and consideration, please feel free to get in touch with
 - <b> MSc Disseration Project </b>
   - [Delving into the Key Characteristcs of Procrastination: Using EDA & ML](https://github.com/dzxlai/MSc_Project/)
 
-<!--  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b> -->
-<!--  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) -->
+
+<h2> 📜🏅 Certificates:</h2>
+
+- [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/f8e390c3f8a00049a4e75879ba98a8a8f9ea384f23956909d94d36181d85dac8)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,22 +36,3 @@ Thank you for your time and consideration, please feel free to get in touch with
 👤<a href="https://www.linkedin.com/in/dominic-lai-120567239">Linked In</a>
 <br/>
 📧<a href="dominiczxlai@gmail.com">Email</a>
-
-<h2> 📜🏅 Certificates:</h2>
-
-- [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/f8e390c3f8a00049a4e75879ba98a8a8f9ea384f23956909d94d36181d85dac8)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
