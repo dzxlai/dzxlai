@@ -27,6 +27,7 @@ Thank you for your time and consideration, please feel free to get in touch with
 <h2> 📜🏅 Certificates:</h2>
 
 - [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/f8e390c3f8a00049a4e75879ba98a8a8f9ea384f23956909d94d36181d85dac8)
+- [Excel: Managing and Analysing Data](https://www.linkedin.com/learning/certificates/3f695724335aee86d0935108f83a7db5094487211f711a6d9832339175ffbbf8)
 
 
 <h2> 🤳 Connect with me:</h2>
